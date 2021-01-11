@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+	background-color: aliceblue;
+}
+
+h1 {
+	border: 10px;
+	border-style: solid;
+	border-width: medium;
+	border-color: yellow;
+}
+
+.container {
+	text-align: center;
+}
+
+#myCarousel {
+	background-color: red;
+	text-align: center;
+}
+
+#myCarousel img {
+	height: 500px;
+	margin-top: 35px;
+}
+
+.carousel-inner {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+.left-carousel-control{
+	padding-top: 50px !important;
+	margin-top: 50px !important;
+	padding-bottom: 50px !imortant;
+	margin-bottom: 50px !important;
+}
+#sliding gallery{
+	margin-left: 10px;
+	margin-right: 10px;
+}
